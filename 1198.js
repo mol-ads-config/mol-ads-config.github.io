@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_mailonline_mol_ads_config_ui=self.webpackChunk_mailonline_mol_ads_config_ui||[]).push([[1198],{51198:(l,a,e)=>{e.r(a),e.d(a,{default:()=>s.Z,getTableUtilityClass:()=>i.K,tableClasses:()=>i.Z});var s=e(47542),i=e(64449)}}]);
